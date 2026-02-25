@@ -123,4 +123,4 @@ This project reflects practical finance capabilities:
 
 **9. Screenshots/Demos**
 show what the dashboard looks like
-Example : 
+Example : https://github.com/Sushant-Goel/Financial-Performance-Analytics-Dashboard/blob/main/Snapshot%20of%20Dashboard.png
